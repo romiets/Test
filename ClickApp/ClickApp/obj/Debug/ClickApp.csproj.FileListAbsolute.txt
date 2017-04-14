@@ -1,0 +1,145 @@
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\obj\Debug\ClickApp.csprojResolveAssemblyReference.cache
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\ApplicationInsights.config
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\csc.exe
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\vbc.exe
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\VBCSCompiler.exe
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\ClickApp.dll.config
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\ClickApp.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\ClickApp.pdb
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.Web.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Helpers.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Mvc.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Razor.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Webpages.Deployment.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Webpages.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Webpages.Razor.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.Web.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Razor.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Webpages.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Webpages.Deployment.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Webpages.Razor.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Helpers.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\System.Web.Mvc.xml
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\obj\Debug\ClickApp.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\obj\Debug\ClickApp.pdb
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\EntityFramework.dll
+c:\users\rpayawal\documents\visual studio 2015\Projects\ClickApp\ClickApp\bin\EntityFramework.xml
+E:\app\ClickApp\ClickApp\bin\ApplicationInsights.config
+E:\app\ClickApp\ClickApp\bin\roslyn\csc.exe
+E:\app\ClickApp\ClickApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\app\ClickApp\ClickApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\app\ClickApp\ClickApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\app\ClickApp\ClickApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\app\ClickApp\ClickApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\app\ClickApp\ClickApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\app\ClickApp\ClickApp\bin\roslyn\System.Collections.Immutable.dll
+E:\app\ClickApp\ClickApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\app\ClickApp\ClickApp\bin\roslyn\vbc.exe
+E:\app\ClickApp\ClickApp\bin\roslyn\VBCSCompiler.exe
+E:\app\ClickApp\ClickApp\bin\roslyn\VBCSCompiler.exe.config
+E:\app\ClickApp\ClickApp\bin\ClickApp.dll.config
+E:\app\ClickApp\ClickApp\bin\ClickApp.dll
+E:\app\ClickApp\ClickApp\bin\ClickApp.pdb
+E:\app\ClickApp\ClickApp\bin\EntityFramework.dll
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.Web.dll
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.WindowsServer.dll
+E:\app\ClickApp\ClickApp\bin\Microsoft.ApplicationInsights.dll
+E:\app\ClickApp\ClickApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\app\ClickApp\ClickApp\bin\Microsoft.Web.Infrastructure.dll
+E:\app\ClickApp\ClickApp\bin\System.Web.Helpers.dll
+E:\app\ClickApp\ClickApp\bin\System.Web.Mvc.dll
+E:\app\ClickApp\ClickApp\bin\System.Web.Razor.dll
+E:\app\ClickApp\ClickApp\bin\System.Web.Webpages.Deployment.dll
+E:\app\ClickApp\ClickApp\bin\System.Web.Webpages.dll
+E:\app\ClickApp\ClickApp\bin\System.Web.Webpages.Razor.dll
+E:\app\ClickApp\ClickApp\bin\EntityFramework.xml
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.Web.xml
+E:\app\ClickApp\ClickApp\bin\Microsoft.AI.WindowsServer.xml
+E:\app\ClickApp\ClickApp\bin\Microsoft.ApplicationInsights.xml
+E:\app\ClickApp\ClickApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\app\ClickApp\ClickApp\bin\System.Web.Razor.xml
+E:\app\ClickApp\ClickApp\bin\System.Web.Webpages.xml
+E:\app\ClickApp\ClickApp\bin\System.Web.Webpages.Deployment.xml
+E:\app\ClickApp\ClickApp\bin\System.Web.Webpages.Razor.xml
+E:\app\ClickApp\ClickApp\bin\System.Web.Helpers.xml
+E:\app\ClickApp\ClickApp\bin\System.Web.Mvc.xml
+E:\app\ClickApp\ClickApp\obj\Debug\ClickApp.csprojResolveAssemblyReference.cache
+E:\app\ClickApp\ClickApp\obj\Debug\ClickApp.dll
+E:\app\ClickApp\ClickApp\obj\Debug\ClickApp.pdb
+D:\ClickApp\ClickApp\bin\ApplicationInsights.config
+D:\ClickApp\ClickApp\bin\roslyn\csc.exe
+D:\ClickApp\ClickApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ClickApp\ClickApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ClickApp\ClickApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ClickApp\ClickApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ClickApp\ClickApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ClickApp\ClickApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ClickApp\ClickApp\bin\roslyn\System.Collections.Immutable.dll
+D:\ClickApp\ClickApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\ClickApp\ClickApp\bin\roslyn\vbc.exe
+D:\ClickApp\ClickApp\bin\roslyn\VBCSCompiler.exe
+D:\ClickApp\ClickApp\bin\roslyn\VBCSCompiler.exe.config
+D:\ClickApp\ClickApp\bin\ClickApp.dll.config
+D:\ClickApp\ClickApp\bin\ClickApp.dll
+D:\ClickApp\ClickApp\bin\ClickApp.pdb
+D:\ClickApp\ClickApp\bin\EntityFramework.dll
+D:\ClickApp\ClickApp\bin\EntityFramework.SqlServer.dll
+D:\ClickApp\ClickApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ClickApp\ClickApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\ClickApp\ClickApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ClickApp\ClickApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ClickApp\ClickApp\bin\Microsoft.AI.Web.dll
+D:\ClickApp\ClickApp\bin\Microsoft.AI.WindowsServer.dll
+D:\ClickApp\ClickApp\bin\Microsoft.ApplicationInsights.dll
+D:\ClickApp\ClickApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ClickApp\ClickApp\bin\Microsoft.Web.Infrastructure.dll
+D:\ClickApp\ClickApp\bin\System.Web.Helpers.dll
+D:\ClickApp\ClickApp\bin\System.Web.Mvc.dll
+D:\ClickApp\ClickApp\bin\System.Web.Razor.dll
+D:\ClickApp\ClickApp\bin\System.Web.Webpages.Deployment.dll
+D:\ClickApp\ClickApp\bin\System.Web.Webpages.dll
+D:\ClickApp\ClickApp\bin\System.Web.Webpages.Razor.dll
+D:\ClickApp\ClickApp\bin\EntityFramework.xml
+D:\ClickApp\ClickApp\bin\EntityFramework.SqlServer.xml
+D:\ClickApp\ClickApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\ClickApp\ClickApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ClickApp\ClickApp\bin\Microsoft.AI.Web.xml
+D:\ClickApp\ClickApp\bin\Microsoft.AI.WindowsServer.xml
+D:\ClickApp\ClickApp\bin\Microsoft.ApplicationInsights.xml
+D:\ClickApp\ClickApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ClickApp\ClickApp\bin\System.Web.Razor.xml
+D:\ClickApp\ClickApp\bin\System.Web.Webpages.xml
+D:\ClickApp\ClickApp\bin\System.Web.Webpages.Deployment.xml
+D:\ClickApp\ClickApp\bin\System.Web.Webpages.Razor.xml
+D:\ClickApp\ClickApp\bin\System.Web.Helpers.xml
+D:\ClickApp\ClickApp\bin\System.Web.Mvc.xml
+D:\ClickApp\ClickApp\obj\Debug\ClickApp.dll
+D:\ClickApp\ClickApp\obj\Debug\ClickApp.pdb
