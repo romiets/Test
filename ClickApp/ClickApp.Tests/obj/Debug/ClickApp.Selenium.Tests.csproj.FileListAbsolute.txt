@@ -35,6 +35,5 @@ D:\Romeo\Test\ClickApp\ClickApp.Tests\bin\Debug\Selenium.WebDriverBackedSelenium
 D:\Romeo\Test\ClickApp\ClickApp.Tests\bin\Debug\ThoughtWorks.Selenium.Core.xml
 D:\Romeo\Test\ClickApp\ClickApp.Tests\bin\Debug\WebDriver.xml
 D:\Romeo\Test\ClickApp\ClickApp.Tests\bin\Debug\WebDriver.Support.xml
-D:\Romeo\Test\ClickApp\ClickApp.Tests\obj\Debug\ClickApp.Selenium.Tests.csprojResolveAssemblyReference.cache
 D:\Romeo\Test\ClickApp\ClickApp.Tests\obj\Debug\ClickApp.Tests.dll
 D:\Romeo\Test\ClickApp\ClickApp.Tests\obj\Debug\ClickApp.Tests.pdb

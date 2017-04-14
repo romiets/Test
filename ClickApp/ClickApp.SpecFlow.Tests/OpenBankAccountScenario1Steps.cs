@@ -12,7 +12,7 @@ namespace ClickApp.SpecFlow.Tests
     public class OpenBankAccountScenario1Steps
     {
         private IWebDriver _driver;
-       
+
 
         [Given(@"I am on the bank account creation screen")]
         public void GivenIAmOnTheBankAccountCreationScreen()
@@ -21,9 +21,10 @@ namespace ClickApp.SpecFlow.Tests
             _driver.Manage().Window.Maximize();
 
             _driver.Navigate().GoToUrl("http://localhost:62256/");
+            
         }
-        
-        [Given(@"I enter initial balance of (.*)")]
+
+        [Given(@"I enter initial balance of ""(.*)""")]
         public void GivenIEnterInitialBalanceOf(String p0)
         {
             IWebElement _initialInput = _driver.FindElement(By.Id("Initial"));
@@ -31,8 +32,8 @@ namespace ClickApp.SpecFlow.Tests
             _initialInput.SendKeys(p0);
 
         }
-        
-        [Given(@"I enter interest rate of (.*)")]
+
+        [Given(@"I enter interest rate of ""(.*)""")]
         public void GivenIEnterInterestRateOf(String p0)
         {
 
@@ -41,7 +42,7 @@ namespace ClickApp.SpecFlow.Tests
             _interestInput.SendKeys(p0);
 
         }
-        
+
         [Given(@"I click create account")]
         public void GivenIClickCreateAccount()
         {
@@ -49,8 +50,8 @@ namespace ClickApp.SpecFlow.Tests
             _createButton.Click();
             WaitForJSToLoad(_driver);
         }
-        
-        [Given(@"I deposit (.*)")]
+
+        [Given(@"I deposit ""(.*)""")]
         public void GivenIDeposit(String p0)
         {
             IWebElement _depositInput = _driver.FindElement(By.Id("Deposit"));
@@ -60,7 +61,7 @@ namespace ClickApp.SpecFlow.Tests
             _depositButton.Click();
             WaitForJSToLoad(_driver);
         }
-        
+
         [Given(@"I add interest")]
         public void GivenIAddInterest()
         {
@@ -68,8 +69,8 @@ namespace ClickApp.SpecFlow.Tests
             _interestButton.Click();
             WaitForJSToLoad(_driver);
         }
-        
-        [Given(@"I withdraw (.*)")]
+
+        [Given(@"I withdraw ""(.*)""")]
         public void GivenIWithdraw(String p0)
         {
             IWebElement _withdrawInput = _driver.FindElement(By.Id("Withdraw"));
@@ -80,7 +81,7 @@ namespace ClickApp.SpecFlow.Tests
             _withdrawButton.Click();
             WaitForJSToLoad(_driver);
         }
-        
+
         [When(@"I get balance")]
         public void WhenIGetBalance()
         {
@@ -88,13 +89,16 @@ namespace ClickApp.SpecFlow.Tests
             _getBalanceButton.Click();
             WaitForJSToLoad(_driver);
         }
-        
-        [Then(@"I check the balance with (.*)")]
+
+        [Then(@"I check the balance with ""(.*)""")]
         public void ThenICheckTheBalanceWith(String p0)
         {
             IWebElement _balanceLabel = _driver.FindElement(By.XPath("/html/body/form/div/div[8]/div"));
             Assert.AreEqual(p0, _balanceLabel.Text);
+            _driver.Quit();
+            _driver.Dispose();
         }
+
 
         public void Sleep(int milliseconds)
         {
