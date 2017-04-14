@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickApp", "ClickApp\ClickA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickApp.Selenium.Tests", "ClickApp.Tests\ClickApp.Selenium.Tests.csproj", "{C5CAF536-B733-41B9-8AF6-29C280D8AE01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickApp.SpecFlow.Tests", "..\Dev\ClickApp.SpecFlow.Tests\ClickApp.SpecFlow.Tests.csproj", "{BFDC4F86-143D-45CE-A48C-28E6F50B653F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickApp.SpecFlow.Tests", "ClickApp.SpecFlow.Tests\ClickApp.SpecFlow.Tests.csproj", "{BFDC4F86-143D-45CE-A48C-28E6F50B653F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
